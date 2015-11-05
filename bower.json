@@ -1,0 +1,18 @@
+{
+  "name": "devfest-slides",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sandro Kock <sandro.kock@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sandro-k/devfest-slides",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
