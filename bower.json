@@ -14,5 +14,14 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.1",
+    "marked-element": "PolymerElements/marked-element#~1.1.1",
+    "reveal.js": "hakimel/reveal.js#~3.1.0",
+    "google-code-prettify": "~1.0.4",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.5",
+    "iron-input": "PolymerElements/iron-input#~1.0.6",
+    "cytoscape": "~2.5.0"
+  }
 }
